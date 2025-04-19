@@ -22,7 +22,7 @@ I’m eager to collaborate on **open-source data projects**, **cloud-based pipel
 
 ## 📫 Reach Out
 - **Email**: krishna.r.syamala@gmail.com
-- **LinkedIn**: [Krishna Reddy Syamala](https://www.linkedin.com/in/krishnareddysyamala)
+- **LinkedIn**: [Krishna Reddy Syamala](https://www.linkedin.com/in/krishna-reddy-syamala/)
 - **GitHub**: [nani1606](https://github.com/nani1606)
 
 ## 🚀 Featured Projects
